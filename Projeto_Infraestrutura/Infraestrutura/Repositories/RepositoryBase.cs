@@ -1,9 +1,9 @@
 using System;
-using Projeto_Infraestrutura.Infraestrutura.Repositories.Interfaces;
+using Projeto_Dominio.Domain.DomainRepositories.Interfaces;
 
 namespace Projeto_Infraestrutura.Infraestrutura.Repositories
 {
-    public class RepositoryBase<T> : IRepositoryInfraBase<T> where T : class
+    public class RepositoryBase<T> : IRepositoryBase<T> where T : class
     {
         public void BeginTransaction()
         {
