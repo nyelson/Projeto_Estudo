@@ -1,0 +1,9 @@
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\bin\Debug\netstandard2.0\Projeto_Dominio.deps.json
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\bin\Debug\netstandard2.0\Projeto_Dominio.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\bin\Debug\netstandard2.0\Projeto_Dominio.pdb
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.csprojAssemblyReference.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.AssemblyInfoInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.AssemblyInfo.cs
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.csproj.CoreCompileInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Dominio\obj\Debug\netstandard2.0\Projeto_Dominio.pdb

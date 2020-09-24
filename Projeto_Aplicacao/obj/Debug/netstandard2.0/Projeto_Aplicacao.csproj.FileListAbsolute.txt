@@ -1,0 +1,4 @@
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Aplicacao\obj\Debug\netstandard2.0\Projeto_Aplicacao.csprojAssemblyReference.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Aplicacao\obj\Debug\netstandard2.0\Projeto_Aplicacao.AssemblyInfoInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Aplicacao\obj\Debug\netstandard2.0\Projeto_Aplicacao.AssemblyInfo.cs
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Aplicacao\obj\Debug\netstandard2.0\Projeto_Aplicacao.csproj.CoreCompileInputs.cache

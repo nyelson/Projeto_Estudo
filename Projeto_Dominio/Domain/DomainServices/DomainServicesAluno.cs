@@ -3,9 +3,9 @@ using Projeto_Dominio.Domain.DomainRepositories.Interfaces;
 
 namespace Projeto_Dominio.Domain.DomainServices
 {
-    public class ServicesAluno : ServicesBase<Aluno>
+    public class DomainServicesAluno : DomainServicesBase<Aluno>
     {
-        public ServicesAluno(IRepositoryBase<Aluno> repository) : base(repository)
+        public DomainServicesAluno(IRepositoryBase<Aluno> repository) : base(repository)
         {
         }
     }

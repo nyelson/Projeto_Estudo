@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Projeto_Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/Projeto_Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projeto_Dominio.dll": {}
+        }
       }
     }
   },
@@ -171,11 +181,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Projeto_Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Projeto_Dominio/Projeto_Dominio.csproj",
+      "msbuildProject": "../Projeto_Dominio/Projeto_Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.3"
+      "NETStandard.Library >= 2.0.3",
+      "Projeto_Dominio >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -185,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\Projeto_Aplicacao.csproj",
+      "projectUniqueName": "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\Projeto_Aplicacao.csproj",
       "projectName": "Projeto_Aplicacao",
-      "projectPath": "C:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\Projeto_Aplicacao.csproj",
+      "projectPath": "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\Projeto_Aplicacao.csproj",
       "packagesPath": "C:\\Users\\nyels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\obj\\",
+      "outputPath": "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Aplicacao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -205,7 +221,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Dominio\\Projeto_Dominio.csproj": {
+              "projectPath": "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Dominio\\Projeto_Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

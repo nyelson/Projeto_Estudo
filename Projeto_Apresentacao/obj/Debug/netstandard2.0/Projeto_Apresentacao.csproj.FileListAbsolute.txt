@@ -1,0 +1,9 @@
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\bin\Debug\netstandard2.0\Projeto_Apresentacao.deps.json
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\bin\Debug\netstandard2.0\Projeto_Apresentacao.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\bin\Debug\netstandard2.0\Projeto_Apresentacao.pdb
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.csprojAssemblyReference.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.AssemblyInfoInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.AssemblyInfo.cs
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.csproj.CoreCompileInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Apresentacao\obj\Debug\netstandard2.0\Projeto_Apresentacao.pdb

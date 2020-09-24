@@ -5,11 +5,11 @@ using Projeto_Dominio.Domain.DomainServices.Interfaces;
 
 namespace Projeto_Dominio.Domain.DomainServices
 {
-    public class ServicesBase<T> : IServicesBase<T> where T : class
+    public class DomainServicesBase<T> : IDomainServicesBase<T> where T : class
     {
         private readonly IRepositoryBase<T> repositorio;
 
-        public ServicesBase(IRepositoryBase<T> repository)
+        public DomainServicesBase(IRepositoryBase<T> repository)
         {
             repositorio = repository;
         }

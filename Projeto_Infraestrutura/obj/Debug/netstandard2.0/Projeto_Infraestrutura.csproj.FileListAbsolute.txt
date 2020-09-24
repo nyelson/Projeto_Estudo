@@ -1,0 +1,12 @@
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\bin\Debug\netstandard2.0\Projeto_Infraestrutura.deps.json
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\bin\Debug\netstandard2.0\Projeto_Infraestrutura.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\bin\Debug\netstandard2.0\Projeto_Infraestrutura.pdb
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\bin\Debug\netstandard2.0\Projeto_Dominio.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\bin\Debug\netstandard2.0\Projeto_Dominio.pdb
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.csprojAssemblyReference.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.AssemblyInfoInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.AssemblyInfo.cs
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.csproj.CoreCompileInputs.cache
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.csproj.CopyComplete
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.dll
+c:\Users\nyels\Desktop\Projeto_Estudo\Projeto_Infraestrutura\obj\Debug\netstandard2.0\Projeto_Infraestrutura.pdb

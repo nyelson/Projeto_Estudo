@@ -3,9 +3,9 @@ using Projeto_Dominio.Domain.DomainRepositories.Interfaces;
 
 namespace Projeto_Dominio.Domain.DomainServices
 {
-    public class ServicesTurma : ServicesBase<Turma>
+    public class DomainServicesTurma : DomainServicesBase<Turma>
     {
-        public ServicesTurma(IRepositoryBase<Turma> repository) : base(repository)
+        public DomainServicesTurma(IRepositoryBase<Turma> repository) : base(repository)
         {
         }
     }

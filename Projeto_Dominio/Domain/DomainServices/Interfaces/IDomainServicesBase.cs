@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace Projeto_Dominio.Domain.DomainServices.Interfaces
 {
-    public interface IServicesBase<T> where T : class
+    public interface IDomainServicesBase<T> where T : class
     {
         #region Manutenção de dados
          void Insert(T obj);
