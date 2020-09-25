@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uwniQvdKWcwrTzvKSy98R98qjz9PAC0fxo2jjBGyNpo9kDFWgQo5E+M+V+Wt4wscE99dB/v5YHIztHB9iBb8ow==",
+  "dgSpecHash": "PU0qx46D7plktPf95g0/PodpaVW0X7nAWbsYKvnOkTS/kT37YfY3j6jVzAvSASM13GDTmYadeX7+saRfOtXNwA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Apresentacao\\Projeto_Apresentacao.csproj",
-  "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\nyels\\Desktop\\Projeto_Estudo\\Projeto_Apresentacao\\Projeto_Apresentacao.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
